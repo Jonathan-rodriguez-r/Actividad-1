@@ -1,0 +1,7 @@
+db.jugadores.update({Nombre:"Leonel Messi"}, {goles:4});
+db.jugadores.update({Nombre:"Luis Diaz"}, {goles:4});
+db.arbitros.update({"Nombre":"Néstor Pitana"}, {"CantidadPartidos":2});
+dbo.arbitros.update({"Nombre":"Wilmar Roldán"}, {"CantidadPartidos":2});
+db.equipos.update({"Nombre":"Argentina"}, {"puntos":10});
+db.equipos.update({"Nombre":"Uruguay"}, {"puntos":7});
+db.estadios.update({"Nombre":"Arena Pantanal"}, {"aforo":10000});
