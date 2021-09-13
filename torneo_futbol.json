@@ -1,0 +1,88 @@
+{
+   
+    "arbitros": 
+    [
+        {
+            "Id":"ObjectId",
+            "Nombre":"String",
+            "Pais":"String",
+            "CantidadPartidos":"Int32",
+            "Activo":true
+        }
+    ],
+    "equipos":
+    [
+        {
+            "Id":"ObjectId",
+            "Nombre":"String",
+            "puntos":"Int32",
+            "Grupo":"Char",
+            "Goles": 
+            [
+                {
+                    "GolesFavor":"Int32",
+                    "GolesContra":"Int32", 
+                    "GolDiferencia":"Int32"
+                }
+            ],
+            "Activo":true
+        }
+    ],
+    "jugadores":
+    [
+        {
+            "Id":"ObjectId",
+            "Nombre":"String",
+            "Equipo":"String",
+            "Posicion":"String",
+            "Goles":"Int32",
+            "Activo":true,
+            "tarjetas":
+            [
+                {
+                    "TarjetasAmarillas": "Int32",
+                    "TarjetasRojas":"Int32"
+                }
+            ],
+            "SancionActiva":false
+        }
+    ],
+    "estadios":
+    [
+        {
+            "Id":"ObjectId",
+            "Nombre":"String",
+            "Ciudad":"String",
+            "Aforo":"Int32",
+            "activo":true
+        }
+    ],
+    "Encuentros":
+    [
+        {
+            "Id":"ObjectId",
+            "Fecha":"Date",
+            "Grupo":"Char",
+            "Estadio":"String",
+            "Arbitro":"String",
+            "Equipos":
+            [
+                {
+                    "EquipoLocal":"String",
+                    "EquipoVisitante":"String"
+                }
+            ],
+            "Goles":
+            [
+                {
+                    "GolesEquipoLocal":"Int32",
+                    "GolesEquipoVisitante":"Int32"
+                }
+            ]
+ 
+        }
+
+    ] 
+
+    
+}

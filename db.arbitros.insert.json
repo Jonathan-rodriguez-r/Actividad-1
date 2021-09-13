@@ -1,0 +1,33 @@
+[{
+  "_id": {
+    "$oid": "613ec1037973d6b32ce1eadc"
+  },
+  "Nombre": "Esteban Ostojich",
+  "Pais": "Uruguay",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ec1037973d6b32ce1eadd"
+  },
+  "Nombre": "Néstor Pitana",
+  "Pais": "Argentina",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ec1037973d6b32ce1eade"
+  },
+  "Nombre": "Wilmar Roldán",
+  "Pais": "Colombia",
+  "CantidadPartidos": 1,
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ec1037973d6b32ce1eadf"
+  },
+  "Nombre": "Diego Haro",
+  "Pais": "Bolivia",
+  "CantidadPartidos": 1,
+  "Activo": true
+}]

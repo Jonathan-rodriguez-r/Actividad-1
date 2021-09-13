@@ -1,0 +1,151 @@
+[{
+  "_id": {
+    "$oid": "613ebbf77973d6b32ce1eace"
+  },
+  "Nombre": "Argentina",
+  "puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebbf77973d6b32ce1eacf"
+  },
+  "Nombre": "Bolivia",
+  "puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebbf77973d6b32ce1ead0"
+  },
+  "Nombre": "Chile",
+  "puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebbf77973d6b32ce1ead1"
+  },
+  "Nombre": "Paraguay",
+  "puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebbf77973d6b32ce1ead2"
+  },
+  "Nombre": "Uruguay",
+  "puntos": 0,
+  "Grupo": "A",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebc717973d6b32ce1ead3"
+  },
+  "Nombre": "Brasil",
+  "puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebc717973d6b32ce1ead4"
+  },
+  "Nombre": "Colombia",
+  "puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebc717973d6b32ce1ead5"
+  },
+  "Nombre": "Ecuador",
+  "puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebc717973d6b32ce1ead6"
+  },
+  "Nombre": "Peru",
+  "puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+},{
+  "_id": {
+    "$oid": "613ebc717973d6b32ce1ead7"
+  },
+  "Nombre": "Venezuela",
+  "puntos": 0,
+  "Grupo": "B",
+  "Goles": [
+    {
+      "GolesFavor": 0,
+      "GolesContra": 0,
+      "GolDiferencia": 0
+    }
+  ],
+  "Activo": true
+}]
